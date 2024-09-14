@@ -1,0 +1,3 @@
+[submodule "embedded-sharepoint"]
+	path = embedded-sharepoint
+	url = https://github.com/lhr-solar/Embedded-Sharepoint
